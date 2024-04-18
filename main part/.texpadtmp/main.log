@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.21)  18 APR 2024 10:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.21)  18 APR 2024 11:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -997,9 +997,9 @@ File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 
 LaTeX Warning: Unused global option(s):
-    [8pt].
+    [5pt].
 
-(/Users/randolf/Documents/Master IRIV/ASI/Stage ISIR/Rapport de stage/main part/.texpadtmp/main.aux (/Users/randolf/Documents/Master IRIV/ASI/Stage ISIR/Rapport de stage/main part/.texpadtmp/TitlePage.aux))
+(/Users/randolf/Documents/Master IRIV/ASI/Stage ISIR/report_m1/main part/.texpadtmp/main.aux (/Users/randolf/Documents/Master IRIV/ASI/Stage ISIR/report_m1/main part/.texpadtmp/TitlePage.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 81.
@@ -1089,7 +1089,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring OFF on input line 81.
-(/Users/randolf/Documents/Master IRIV/ASI/Stage ISIR/Rapport de stage/main part/.texpadtmp/main.out) (/Users/randolf/Documents/Master IRIV/ASI/Stage ISIR/Rapport de stage/main part/.texpadtmp/main.out)
+(/Users/randolf/Documents/Master IRIV/ASI/Stage ISIR/report_m1/main part/.texpadtmp/main.out) (/Users/randolf/Documents/Master IRIV/ASI/Stage ISIR/report_m1/main part/.texpadtmp/main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
@@ -1105,8 +1105,8 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (/Users/randolf/Documents/Master IRIV/ASI/Stage ISIR/Rapport de stage/main part/.texpadtmp/main.bbl
-/Users/randolf/Documents/Master IRIV/ASI/Stage ISIR/Rapport de stage/main part/.texpadtmp/main.bbl:1024: Extra }, or forgotten \endgroup.
+ (/Users/randolf/Documents/Master IRIV/ASI/Stage ISIR/report_m1/main part/.texpadtmp/main.bbl
+/Users/randolf/Documents/Master IRIV/ASI/Stage ISIR/report_m1/main part/.texpadtmp/main.bbl:1024: Extra }, or forgotten \endgroup.
 l.1024       }
               
 I've deleted a group-closing symbol because it seems to be
@@ -1154,7 +1154,7 @@ l.98 \newpage
 
 ] [2] [3
 
-] (/Users/randolf/Documents/Master IRIV/ASI/Stage ISIR/Rapport de stage/main part/.texpadtmp/main.toc
+] (/Users/randolf/Documents/Master IRIV/ASI/Stage ISIR/report_m1/main part/.texpadtmp/main.toc
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -1181,7 +1181,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
- [4] (/Users/randolf/Documents/Master IRIV/ASI/Stage ISIR/Rapport de stage/main part/.texpadtmp/main.lof)
+ [4] (/Users/randolf/Documents/Master IRIV/ASI/Stage ISIR/report_m1/main part/.texpadtmp/main.lof)
 \tf@lof=\write7
 \openout7 = `main.lof'.
 
@@ -2051,7 +2051,7 @@ Package fancyhdr Warning: \headheight is too small (12.5pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-0.21503pt}.
 
-[33] (/Users/randolf/Documents/Master IRIV/ASI/Stage ISIR/Rapport de stage/main part/.texpadtmp/main.aux (/Users/randolf/Documents/Master IRIV/ASI/Stage ISIR/Rapport de stage/main part/.texpadtmp/TitlePage.aux))
+[33] (/Users/randolf/Documents/Master IRIV/ASI/Stage ISIR/report_m1/main part/.texpadtmp/main.aux (/Users/randolf/Documents/Master IRIV/ASI/Stage ISIR/report_m1/main part/.texpadtmp/TitlePage.aux))
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 2C9EF588E536C93287AC977B8B4178CC;4645.
 Package logreq Info: Writing requests to 'main.run.xml'.
@@ -2060,14 +2060,14 @@ Package logreq Info: Writing requests to 'main.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  44595 strings out of 476025
- 998351 string characters out of 5790016
+ 998204 string characters out of 5790016
  1904388 words of memory out of 5000000
  64227 multiletter control sequences out of 15000+600000
  592473 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,13n,103p,5973b,3160s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on "/Users/randolf/Documents/Master IRIV/ASI/Stage ISIR/Rapport de stage/main part/.texpadtmp/main.pdf" (40 pages, 3598241 bytes).
+Output written on "/Users/randolf/Documents/Master IRIV/ASI/Stage ISIR/report_m1/main part/.texpadtmp/main.pdf" (40 pages, 3598241 bytes).
 PDF statistics:
  740 PDF objects out of 1000 (max. 8388607)
  633 compressed objects within 7 object streams
